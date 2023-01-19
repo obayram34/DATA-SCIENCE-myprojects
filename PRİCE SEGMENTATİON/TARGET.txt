@@ -4,4 +4,4 @@
 
 **In this problem we do not have to predict actual price but a price range indicating how high the price is**
  
-** mobile phone segmentation problem and  Categories [ 0<1<2<3] --> 0 is cheap but 3 expensive mobile phone
+** mobile phone segmentation problem and  Categories [ 0<1<2<3] --> 0 is cheap but 3 is  expensive mobile phone 
